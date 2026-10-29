@@ -49,7 +49,7 @@ uint32_t lastPublish_measurement = 0;
 uint32_t lastPublish_relay = 0;
 
 
-processingState PROCESSING_STATE = MODE_CONFIGURATION;
+Device_State_t PROCESSING_STATE = MODE_CONFIGURATION;
 
 
 
